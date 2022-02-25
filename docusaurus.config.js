@@ -10,14 +10,12 @@ const config = {
   tagline: 'Learning Golioth with Zephyr and CircuitPython',
   url: 'https://golioth.github.io',
   baseUrl: '/',
-  projectName: 'golioth.github.io/project-docstest',
-  organizationName: 'golioth',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'golioth', // Usually your GitHub org/user name.
-  projectName: 'magtag-demo', // Usually your repo name.
+  projectName: 'project-docstest', // Usually your repo name.
 
   presets: [
     [

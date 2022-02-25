@@ -9,7 +9,7 @@ const config = {
   title: 'Golioth MagTag Tutorial',
   tagline: 'Learning Golioth with Zephyr and CircuitPython',
   url: 'https://golioth.github.io/project-docstest',
-  baseUrl: '/',
+  baseUrl: '/project-docstest/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

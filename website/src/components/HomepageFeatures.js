@@ -4,32 +4,32 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Learn About Golioth',
+    Svg: require('../../static/img/logo.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This guide is for Developers to understand the various features of Golioth and how they can assist developers in their
+        IoT deployments. Along the way, Developers will learn skills for making resiliant IoT systems on both the embedded and Cloud side.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Get Started Quickly',
+    Svg: require('../../static/img/magtag.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This dual track training includes a pre-configured hardware example using CircuitPython that lets the user start investigating Golioth features immediately. 
+        Trial Golioth by trying out a high level interface to our various APIs.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Go in depth on Zephyr',
+    Svg: require('../../static/img/zephyr.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our users find that Zephyr RTOS provides maximum hardware control and flexibility for their client or company projects.
+        After getting started quickly, users will learn how to properly set up a Zephyr project and be ready to deploy a professional project.
       </>
     ),
   },

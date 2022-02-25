@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Golioth MagTag Tutorial',
   tagline: 'Learning Golioth with Zephyr and CircuitPython',
-  url: 'https://golioth.github.io',
+  url: 'https://golioth.github.io/project-docstest',
   baseUrl: '/',
   trailingSlash: false,
   onBrokenLinks: 'throw',

@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Developer Training',
   tagline: 'Learning about Golioth with Zephyr and CircuitPython',
-  url: 'https://golioth.github.io/project-docstest',
+  url: 'https://golioth.github.io',
   baseUrl: '/project-docstest/',
   trailingSlash: false,
   onBrokenLinks: 'throw',

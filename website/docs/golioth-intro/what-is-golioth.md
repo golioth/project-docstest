@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # What is Golioth?
@@ -7,6 +7,6 @@ sidebar_position: 2
 [VIDEO LINK]
 
 
-## Where is Hologram a good fit?
+## Where is Golioth a good fit?
 
 ## An IoT market overview and how IoT fits in that market

@@ -1,0 +1,3 @@
+[submodule "magtag-demo"]
+	path = magtag-demo
+	url = git@github.com:golioth/magtag-demo.git
